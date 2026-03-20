@@ -1,4 +1,4 @@
-# TaikoArcadeLoader
+# TaikoArcadeLoaderr
 
 This is a loader for Taiko no Tatsujin Nijiiro ver.  
 It currently supports the following versions:
